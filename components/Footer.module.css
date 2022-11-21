@@ -1,5 +1,5 @@
-@keyframe color-swing {
- from {background-color: DeepPink;}
+@keyframes color-swing {
+  from {background-color: DeepPink;}
   to {background-color: DarkBlue;}
 }
 
