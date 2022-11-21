@@ -10,7 +10,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: color.swing 2s linear 2s infinite alternate;
+  animation: color-swing 2s linear 2s infinite alternate;
   
 }
 
