@@ -1,6 +1,6 @@
 @keyframes color-swing {
-  from {background-color: DeepPink;}
-  to {background-color: DarkBlue;}
+  from {background-color: DeepPink;color:black;}
+  to {background-color: DarkBlue;color:white;}
 }
 
 .footer {
