@@ -39,4 +39,5 @@ code {
 .main-text {
   text-align:justify;
   text-justify:auto;
+  white-space: pre-line;
 }
